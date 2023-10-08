@@ -2,3 +2,6 @@ Industry666/
 └── src/
     ├── industry666.py
     └── README.md
+└── os/  
+    ├── os.py  
+    └── README.md
