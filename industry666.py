@@ -22,3 +22,9 @@ if __name__ == "__main__":
     industry.display_vision()
     industry.display_pillars()
     industry.display_applications()
+
+from os import OS  # Import the operating system module
+
+# Example of use of the operating system
+os = OS()
+os.start()
