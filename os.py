@@ -122,4 +122,6 @@ class Scheduler:
         pass
 
 Please note that this is just a starting point and that resource management and scheduling will be complex in a complete Industry 6.6.6 operating system. You will need to further develop these components to effectively manage the integration of classical, quantum and biological technologies.
+This code is currently in a testing and prototyping phase. It is intended for demonstration and conceptual purposes, and it may not be suitable for production use. The codebase is a work in progress, and it may undergo significant changes in future updates.
+
 
