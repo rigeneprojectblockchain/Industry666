@@ -1,8 +1,8 @@
 # Industry666
 A vision for Industry 6.6.6 integrating technology and biology.
-
-![Industry 6.6.6 Logo](https://github.com/rigeneprojectblockchain/Industry666/blob/main/industry%206.6.6.jpg)
 Welcome to the Industry 6.6.6 project repository! This project explores the exciting intersection of technology and biology to envision a sustainable and innovative future.
+![Industry 6.6.6 Logo](https://github.com/rigeneprojectblockchain/Industry666/blob/main/industry%206.6.6.jpg)
+
 
 ## Overview
 
