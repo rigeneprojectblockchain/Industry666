@@ -2,7 +2,6 @@
 A vision for Industry 6.6.6 integrating technology and biology.
 
 ![Industry 6.6.6 Logo](https://lh6.googleusercontent.com/XE0fUkiartgtN55AROBV_b4I3aLjtZN_S2nqG_qglIbd7uswdlO7XdFGIKCvCwL1zWCQdyUWede_MiHa1g3sF0NgxRH3uFrolzwbmk9RGc1Mo-523iyz2x3eX7sOLcoF-w=w1280)
-
 Welcome to the Industry 6.6.6 project repository! This project explores the exciting intersection of technology and biology to envision a sustainable and innovative future.
 
 ## Overview
